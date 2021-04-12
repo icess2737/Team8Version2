@@ -1,0 +1,69 @@
+*** Start of Concatenating Strings Demo ***
+Type the 1st string to compare (q - to quit):
+
+Type the 2nd string to compare:
+
+1st string is equal to 2nd
+Type the 1st string to compare (q - to quit):
+a
+Type the 2nd string to compare:
+a
+1st string is equal to 2nd
+Type the 1st string to compare (q - to quit):
+A
+Type the 2nd string to compare:
+A
+1st string is equal to 2nd
+Type the 1st string to compare (q - to quit):
+0
+Type the 2nd string to compare:
+0
+1st string is equal to 2nd
+Type the 1st string to compare (q - to quit):
+abc
+Type the 2nd string to compare:
+abcd
+1st string is less than 2nd
+Type the 1st string to compare (q - to quit):
+123 45
+Type the 2nd string to compare:
+123456
+1st string is less than 2nd
+Type the 1st string to compare (q - to quit):
+abdf fdf 
+Type the 2nd string to compare:
+asdf
+1st string is less than 2nd
+Type the 1st string to compare (q - to quit):
+fsdfsjfksdfjsdkfjksdfjkdsffjdskfjsdkfdsfdsfsdfjksgskdgjksd fdsfsdfdsfsdf fdfds
+Type the 2nd string to compare:
+fsdfsfsfdjgg dfkdsfds aaaaaaaa 
+1st string is greater than 2nd
+Type the 1st string to compare (q - to quit):
+\
+Type the 2nd string to compare:
+\
+1st string is equal to 2nd
+Type the 1st string to compare (q - to quit):
+\n
+Type the 2nd string to compare:
+\n
+1st string is equal to 2nd
+Type the 1st string to compare (q - to quit):
+abb
+Type the 2nd string to compare:
+abc
+1st string is less than 2nd
+Type the 1st string to compare (q - to quit):
+abc
+Type the 2nd string to compare:
+abb
+1st string is greater than 2nd
+Type the 1st string to compare (q - to quit):
+@q
+Type the 2nd string to compare:
+#!
+1st string is greater than 2nd
+Type the 1st string to compare (q - to quit):
+q
+*** End of Comparing Strings Demo ***
