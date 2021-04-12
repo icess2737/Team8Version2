@@ -40,6 +40,5 @@ void manipulating() {
         else
             printf("1st string is greater than 2nd\n");
     } // while loop ends
-
     printf("*** End of Comparing Strings Demo ***\n\n");
 }
